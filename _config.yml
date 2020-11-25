@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Rahma Chaabouni"
 title_separator          : "-"
 name                     : &name "Rahma Chaabouni"
-description              : &description "PhD candidate"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD candidate at Facebook AI Research and ENS Ulm"
+url                      : ttps://rahmacha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "rahmacha.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ author:
   name             : "Rahma Chaabouni"
   avatar           : "profile.png"
   bio              : "PhD candidate at Facebook AI Research and ENS Ulm -- Deep Learning and Cognitive Science"
-  location         : "Paris"
+  location         : "Paris, France"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=jYN2eXEAAAAJ"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rahmacha"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Rahma_Chaa"
+  twitter          : "Rahma_Chaa"
   vine             :
   weibo            :
   xing             :
@@ -290,7 +290,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
- https://github.com/rahmacha
+# https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
 #     - categories
