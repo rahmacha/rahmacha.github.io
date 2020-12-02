@@ -15,6 +15,7 @@ I am interested in understanding what made our  language unique and how we can e
 Prior to my Ph.D., I received my B.S. and Master of Applied Mathematics degree from Supelec and a DataScience master's degree from Ecole Polytechnique. You can find more information in my [CV](https://github.com/rahmacha/rahmacha.github.io/blob/master/CV_github.pdf).
 
 
+<br />
 
 **Selected  Publications:**
 
@@ -35,6 +36,7 @@ Eugeny Kharitonov, Rahma Chaabouni, Diane Bouchacourt, Marco Baroni. *EGG: a too
 Rahma Chaabouni, Eugeny Kharitonov, Alessandro Lazaric, Emmanuel Dupoux, Marco Baroni. *Word-order biases in deep-agent emergent communication*.  ACL 2019. [pdf](https://arxiv.org/pdf/1905.12330.pdf) 
 
 
+<br />
 For up to date list of publications, please have a look at my [Google Scholar](https://scholar.google.com/citations?hl=fr&user=jYN2eXEAAAAJ).
 
 
