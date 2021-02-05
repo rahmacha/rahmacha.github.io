@@ -19,7 +19,7 @@ Prior to my Ph.D., I received my B.S. and Master of Applied Mathematics degree f
 
 **Selected  Publications:**
 
-*Rahma Chaabouni*, Eugeny Kharitonov, Emmanuel Dupoux, Marco Baroni, *Communicating artificial neural networks develop efficient color-naming systems*. Submitted.
+*Rahma Chaabouni*, Eugeny Kharitonov, Emmanuel Dupoux, Marco Baroni, *Communicating artificial neural networks develop efficient color-naming systems*. **PNAS** (to appear).
 
 Eugeny Kharitonov\*, *Rahma Chaabouni*\*,  *What they do when in doubt: a study of inductive biases in seq2seq learners*, ICLR 2021. [pdf](https://openreview.net/forum?id=YmA86Zo-P_t)
 
